@@ -1,4 +1,4 @@
-const url = 'https://cors-anywhere.herokuapp.com/https://knizhnik.org/garri-garrison/krest-i-korol/22'
+const url = 'https://cors-anywhere.herokuapp.com/https://cors-anywhere.herokuapp.com/https://knizhnik.org/garri-garrison/krest-i-korol/22'
 fetch(url, {method: 'GET'}).then((res) => 
 console.log(res))
 
